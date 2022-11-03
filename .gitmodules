@@ -1,0 +1,3 @@
+[submodule "01-computorv1"]
+	path = 01-computorv1
+	url = git@github.com:mgkgng/42Projects-computorv1.git
